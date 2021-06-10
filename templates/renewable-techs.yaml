@@ -91,7 +91,7 @@ techs:
             resource: file=capacityfactors-hydro-reservoir-inflow.csv
             resource_unit: energy_per_cap
             lifetime: 60
-    biofuel: # based on Anaerobic digestion from [@JRC:2014] Table 48
+    biofuel: 
         essentials:
             name: Biofuel
             parent: supply_plus
